@@ -16,3 +16,13 @@ git commit -m "message" is read as git | commit -m | "message"; and
 git status is read as git | status | (no destination).
 
 Y si me equivoco agrego algo pequeno
+
+git clone - clonar repositorio
+git add - agregar a la lista de espera
+git commit - subir a la lista de agregados (se abre el editor de codigo para hacer un mensaje)
+git commit -m - subir a la lista de agregados (se agrega un pequeno mensaje)
+git push - subir directamente al repositorio de github
+git status - ver el status de los archivos, en listas o para rm
+git log - ver los archivos subidos a github
+
+atomic commits (reglas primordiales a la hora de subir los commits)
